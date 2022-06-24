@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/duyvuquoc/Documents/CSE100/Project2'
+g++ -Wall -pedantic -g -O0 -std=c++11 -c -o graph.o Graph.cpp
+g++ -Wall -pedantic -g -O0 -std=c++11 -o GraphTest graph.o GraphTest.cpp
+make: Leaving directory `/Users/duyvuquoc/Documents/CSE100/Project2'
+ 
